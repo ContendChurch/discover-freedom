@@ -1,0 +1,16 @@
+.middle {
+	text-align: center;
+}
+
+.active-lesson {
+	border: 5px solid #35b88f;
+}
+
+.kingdom-principle {
+	width: 100%;
+    text-align: center;
+}
+
+ul li {
+	font-size: 90%;
+}

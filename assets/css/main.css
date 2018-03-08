@@ -2288,6 +2288,10 @@
 					margin: 0 0 2em 0;
 				}
 
+				.box section.middle {
+					margin: 0 auto;
+				}
+
 				.box.style1 {
 					padding: 2.5em 2em 2.5em 2em;
 				}
